@@ -1,6 +1,6 @@
-### Hi there 👋
+### Olá 👋
 
-####No momento estou trabalhando com o projeto:
+#### No momento estou estudando o projeto:
 [Carregar um IFC no browser](https://rebecapessoa.github.io/projetoifcweb/)
 
 <!--
